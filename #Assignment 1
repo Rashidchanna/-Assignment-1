@@ -82,4 +82,4 @@ full_name="Rashid Ali"
 first_name="Rashid"
 last_name="Ali"
 print(first_name)
-print(last_name)￼Enter
+print(last_name)
