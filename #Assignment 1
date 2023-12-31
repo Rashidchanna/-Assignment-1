@@ -1,0 +1,85 @@
+#problem1
+
+name = "Rashid ali"
+age = 19
+
+print(f"Name: {name}, Age: {age}")
+
+#problem2
+
+num1 = 17
+num2 = 10
+result = num1 + num2  
+print("result", result)
+
+#Problem3
+
+price = 17.5
+quantity = 3
+total_cost = price * quantity
+
+print("Price:", price)
+print("Quantity:", quantity)
+print("Total Cost:", total_cost)
+
+#problem4
+
+first_name = "Rashid"
+last_name = "Ali"
+
+full_name = first_name + " " + last_name
+
+print("Full Name:", full_name)
+
+#problem5
+
+is_adult ="True"
+age=18
+print(is_adult)
+
+#Problem6
+
+name= input("Enter your name: ")
+
+print("Assalam-u-alaikum:" + name)
+
+#Problem7
+
+celsius_temperature = 25  
+
+fahrenheit_temperature = (celsius_temperature * 9/5) + 32
+
+print(fahrenheit_temperature)
+
+#Problem8
+
+a=5
+b=7
+
+c=a
+a=b
+b=c
+
+print(f"A is {a}")
+print(f"B is {b}")
+
+#Problem9
+
+num1= int(input("enter a number1:"))
+num2=int(input("enter a number2:"))
+opt=input("enter operator:")
+
+if opt=='+,-,*,/':
+    
+    print(f"adition is{num1+num2}")
+    print(f"subtraction is {num1-num2}")
+    print(f"multiplication is {num1*num2}")
+    print(f"division is {num1/num2}")
+
+#Problem11
+
+full_name="Rashid Ali"
+first_name="Rashid"
+last_name="Ali"
+print(first_name)
+print(last_name)￼Enter
